@@ -1,2 +1,2 @@
 #!/bin/bash
-mvdir *[[:upper:]]* /tmp/u
+mvdir *[[:upper:]] /tmp/u
