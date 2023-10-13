@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -name "*.gif" | ls -1a
+find ./ -type f -iname "*.gif" | ls -1a
